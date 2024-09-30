@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\laugo\\source\\repos\\practica2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SpeedRadar.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\SpeedRadar.cs",
+              "RelativeDocumentMoniker": "practica2\\SpeedRadar.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\SpeedRadar.cs",
+              "RelativeToolTip": "practica2\\SpeedRadar.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:55:40.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IMessageWritter.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\IMessageWritter.cs",
+              "RelativeDocumentMoniker": "practica2\\IMessageWritter.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\IMessageWritter.cs",
+              "RelativeToolTip": "practica2\\IMessageWritter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:54:51.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\City.cs",
+              "RelativeDocumentMoniker": "practica2\\City.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\City.cs",
+              "RelativeToolTip": "practica2\\City.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:53:43.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PoliceStation.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceStation.cs",
+              "RelativeDocumentMoniker": "practica2\\PoliceStation.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceStation.cs",
+              "RelativeToolTip": "practica2\\PoliceStation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:53:20.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PoliceCar.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceCar.cs",
+              "RelativeDocumentMoniker": "practica2\\PoliceCar.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceCar.cs",
+              "RelativeToolTip": "practica2\\PoliceCar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:52:41.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Taxi.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Taxi.cs",
+              "RelativeDocumentMoniker": "practica2\\Taxi.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Taxi.cs",
+              "RelativeToolTip": "practica2\\Taxi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:52:05.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "practica2\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Vehicle.cs",
+              "RelativeToolTip": "practica2\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:23.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Main.cs",
+              "RelativeDocumentMoniker": "practica2\\Main.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Main.cs",
+              "RelativeToolTip": "practica2\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:48:50.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -12,3 +12,4 @@ C:\Users\laugo\source\repos\practica2\practica2\obj\Debug\net8.0\refint\practica
 C:\Users\laugo\source\repos\practica2\practica2\obj\Debug\net8.0\practica2.pdb
 C:\Users\laugo\source\repos\practica2\practica2\obj\Debug\net8.0\practica2.genruntimeconfig.cache
 C:\Users\laugo\source\repos\practica2\practica2\obj\Debug\net8.0\ref\practica2.dll
+C:\Users\laugo\source\repos\practica2\practica2\obj\Debug\net8.0\practica2.sourcelink.json

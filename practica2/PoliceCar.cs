@@ -1,4 +1,5 @@
-﻿using Practice2;
+﻿using Microsoft.VisualBasic.FileIO;
+using Practice2;
 
 namespace Practice2
 {
@@ -8,37 +9,43 @@ namespace Practice2
         private const string typeOfVehicle = "Police Car";
         private bool isPatrolling;
         private bool chasing;
-        private SpeedRadar speedRadar;
+        private string? taxiPlate;
+        private SpeedRadar? speedRadar;
         private PoliceStation? policeStation;
 
         public PoliceCar(string plate) : base(typeOfVehicle, plate)
         {
             isPatrolling = false;
-            speedRadar = new SpeedRadar();
 
         }
 
         public void UseRadar(Vehicle vehicle)
         {
-            if (isPatrolling)
+            if (speedRadar != null) 
             {
-                speedRadar.TriggerRadar(vehicle);
-                var result = speedRadar.GetLastReading();
-                Console.WriteLine(WriteMessage($"Triggered radar. Result: {result.Item2}"));
+                if (isPatrolling)
+                { 
+                    speedRadar.TriggerRadar(vehicle);
+                    var result = speedRadar.GetLastReading();
+                    Console.WriteLine(WriteMessage($"Triggered radar. Result: {result.Item2}"));
 
-                if (policeStation != null)
-                {
-                    if (result.Item1) //driving illegally 
+                    if (policeStation != null)
                     {
-                        policeStation.ActivateAlarm(vehicle.GetPlate());
-
+                        if (result.Item1) //driving illegally 
+                        {
+                            policeStation.ActivateAlarm(vehicle.GetPlate());
+                                
+                        }
                     }
                 }
+                else
+                    Console.WriteLine(WriteMessage($"is not patrolling, can not use radar."));
 
             }
             else
             {
-                Console.WriteLine(WriteMessage($"has no active radar."));
+                   Console.WriteLine(WriteMessage($"has no active radar."));
+
             }
         }
 
@@ -87,21 +94,43 @@ namespace Practice2
 
         }
 
+        public void SetTaxiPlate(string plate)
+        {
+
+            taxiPlate = plate; 
+        }
+
         public void SetStation(PoliceStation station)
         {
             policeStation = station;
-            Console.WriteLine(WriteMessage($"Regestered to Police Station"));
+            Console.WriteLine(WriteMessage($"Regestered to Police Station {policeStation.StationName}"));
         }
         public void PrintRadarHistory()
+
         {
-            Console.WriteLine(WriteMessage("Report radar speed history:"));
-            foreach (float speed in speedRadar.SpeedHistory)
+
+            if (speedRadar != null)
             {
-                Console.WriteLine(speed);
+                Console.WriteLine(WriteMessage("Report radar speed history:"));
+                foreach (float speed in speedRadar.SpeedHistory)
+                {
+                    Console.WriteLine(speed);
+                }
+
+            }
+            else
+            {
+                Console.WriteLine(WriteMessage("No history available: no active radar"));
+
             }
         }
+        public void SetRadar(SpeedRadar radar)
+        {
+            speedRadar = radar;
+            Console.WriteLine(WriteMessage("Speed Radar Created"));
 
 
+        }
 
 
     }

@@ -10,6 +10,7 @@ namespace Practice2
 {
     internal class PoliceStation
     {
+        private string stationName;
 
         public List<PoliceCar> PoliceCarsList { get; private set; }
 
@@ -17,14 +18,15 @@ namespace Practice2
 
         private City? city;
 
-        public PoliceStation()
+        public PoliceStation(string stationName)
         {
             alarm = false;
             PoliceCarsList = new List<PoliceCar>();
-
+            this.stationName = stationName;   
         }
 
-
+        public string StationName
+        { get { return stationName; } } 
         public void ActivateAlarm(string plate)
 
 
@@ -39,6 +41,7 @@ namespace Practice2
                     Console.WriteLine($"Police car {car.GetPlate()} notified of taxi {plate}");
 
                     car.StartChasing();
+                    car.SetTaxiPlate(plate);    // Send the infractor plate to the plice car
                 }
 
 
@@ -51,7 +54,7 @@ namespace Practice2
         {
             PoliceCarsList.Add(policeCar);
             policeCar.SetStation(this);
-            //policeCar.WriteMessage($"Regestered to Police Station {city}");
+
 
 
         }
@@ -59,8 +62,8 @@ namespace Practice2
         public void SetCity(City registered_city)
         {
             city = registered_city;
-            Console.WriteLine($"Police station registered to {city.CityName()}");
-            //Console.WriteLine(WriteMessage($"Regestered to Police Station {station.City}"));
+            Console.WriteLine($"Police station {stationName} registered to {city.CityName()}");
+
         }
     }
 }

@@ -7,15 +7,19 @@
         {
             Taxi taxi1 = new Taxi("0001 AAA");
             Taxi taxi2 = new Taxi("0002 BBB");
+
+            SpeedRadar radar = new SpeedRadar();  
+            
             PoliceCar policeCar1 = new PoliceCar("0001 CNP");
             PoliceCar policeCar2 = new PoliceCar("0002 CNP");
 
-            PoliceStation station1 = new PoliceStation();
+            PoliceStation station1 = new PoliceStation("Chamartin");
             City city = new City("Madrid");
 
             Console.WriteLine(taxi1.WriteMessage("Created"));
             Console.WriteLine(taxi2.WriteMessage("Created"));
             Console.WriteLine(policeCar1.WriteMessage("Created"));
+            policeCar1.SetRadar(radar); 
             Console.WriteLine(policeCar2.WriteMessage("Created"));
             Console.WriteLine("\n");
 

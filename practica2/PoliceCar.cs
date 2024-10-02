@@ -1,9 +1,10 @@
 ﻿using Microsoft.VisualBasic.FileIO;
+using practica2;
 using Practice2;
 
 namespace Practice2
 {
-    class PoliceCar : Vehicle
+    class PoliceCar : RegisteredVehicle
     {
         //constant string as TypeOfVehicle wont change allong PoliceCar instances
         private const string typeOfVehicle = "Police Car";

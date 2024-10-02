@@ -16,5 +16,16 @@ namespace practica2
 
 
             }
+
+
+        public override string GetPlate()
+        {
+            return "Vehicle has no plate";
+        }
+
+        public override string ToString()
+        {
+            return $"{GetTypeOfVehicle()}";
+        }
     }
 }

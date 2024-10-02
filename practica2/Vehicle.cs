@@ -20,6 +20,7 @@
             return $"{GetTypeOfVehicle()}";
         }
 
+
         public string GetTypeOfVehicle()
         {
             return typeOfVehicle;
@@ -37,10 +38,15 @@
             this.speed = speed;
         }
 
+
+
         //Implment interface with Vechicle message structure
         public string WriteMessage(string message)
         {
             return $"{this}: {message}";
         }
+
+        public abstract string GetPlate();
+       
     }
 }

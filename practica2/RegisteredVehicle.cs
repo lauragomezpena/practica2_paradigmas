@@ -15,5 +15,17 @@ namespace practica2
 
             this.plate = plate; 
         }
+
+
+        public override string GetPlate()
+        {
+            return plate;
+        }
+
+        public override string ToString()
+        {
+            return $"{GetTypeOfVehicle()} with plate {GetPlate()}";
+
+        }
     }
 }

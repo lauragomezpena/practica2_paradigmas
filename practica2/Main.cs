@@ -1,6 +1,9 @@
-﻿namespace Practice2
+﻿using practica2;
+
+namespace Practice2
 {
-    internal class main
+
+    internal class MainClass
     {
 
         static void Main()
@@ -13,12 +16,15 @@
             PoliceCar policeCar1 = new PoliceCar("0001 CNP");
             PoliceCar policeCar2 = new PoliceCar("0002 CNP");
 
+
+            Scooter scooter1 = new Scooter();
             PoliceStation station1 = new PoliceStation("Chamartin");
             City city = new City("Madrid");
 
             Console.WriteLine(taxi1.WriteMessage("Created"));
             Console.WriteLine(taxi2.WriteMessage("Created"));
             Console.WriteLine(policeCar1.WriteMessage("Created"));
+            Console.WriteLine(scooter1.WriteMessage("Created"));
             policeCar1.SetRadar(radar); 
             Console.WriteLine(policeCar2.WriteMessage("Created"));
             Console.WriteLine("\n");
@@ -46,6 +52,7 @@
             taxi1.StartRide();
             policeCar1.StartPatrolling();
             policeCar1.UseRadar(taxi1);
+            policeCar1.UseRadar(scooter1);
             taxi1.StopRide();
             taxi1.StopRide();
             policeCar1.EndPatrolling();

@@ -8,7 +8,7 @@ using Practice2;
 
 namespace Practice2
 {
-    internal class PoliceStation
+    internal class PoliceStation: IMessageWritter
     {
         private string stationName;
 
@@ -32,12 +32,14 @@ namespace Practice2
 
         {
             alarm = true;
+            Console.WriteLine("Alarm activated");
 
             foreach (PoliceCar car in PoliceCarsList)
             {
                 if (car.IsPatrolling())
+
                 {
-                    Console.WriteLine("Alarm activated");
+                    
                     Console.WriteLine($"Police car {car.GetPlate()} notified of taxi {plate}");
 
                     car.StartChasing();
@@ -62,8 +64,19 @@ namespace Practice2
         public void SetCity(City registered_city)
         {
             city = registered_city;
-            Console.WriteLine($"Police station {stationName} registered to {city.CityName()}");
+            Console.WriteLine(WriteMessage($"registered to {city.CityName()}"));
 
+        }
+
+        public override string ToString()
+        {
+            return $"Police Station {StationName}";
+        }
+
+
+        public string WriteMessage(string message)
+        {
+            return $"{this}: {message}";
         }
     }
 }

@@ -104,7 +104,7 @@ namespace Practice2
         public void SetStation(PoliceStation station)
         {
             policeStation = station;
-            Console.WriteLine(WriteMessage($"Regestered to Police Station {policeStation.StationName}"));
+            Console.WriteLine(WriteMessage($"Registered to Police Station {policeStation.StationName}"));
         }
         public void PrintRadarHistory()
 

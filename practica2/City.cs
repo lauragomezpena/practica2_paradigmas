@@ -3,7 +3,7 @@ using Practice2;
 
 namespace Practice2
 {
-    internal class City
+    internal class City: IMessageWritter
     {
         private string cityName;
         public List<Taxi> TaxiCarsList { get; private set; }
@@ -31,12 +31,11 @@ namespace Practice2
             }
             else
             {
-                Console.WriteLine(taxiCar.WriteMessage($"Already registered to {CityName} "));
+                Console.WriteLine(WriteMessage($"Taxi already registered."));
 
             }
 
 
-            //policeCar.WriteMessage($"Regestered to Police Station {city}");
 
         }
 
@@ -55,7 +54,7 @@ namespace Practice2
             }
             else
             {
-                Console.WriteLine($"Taxi not found in registered taxis in {CityName}");
+                Console.WriteLine(WriteMessage($"Taxi not found in registered taxis."));
             }
         }
 
@@ -70,13 +69,21 @@ namespace Practice2
             }
             else
             {
-                Console.WriteLine(($"This police station is already registered to {CityName}"));
+                Console.WriteLine(WriteMessage(($"This police station is already registered.")));
 
             }
 
+        }
 
-            //policeCar.WriteMessage($"Regestered to Police Station {city}");
+        public override string ToString()
+        {
+            return $"City of {CityName()}";
+        }
 
+
+        public string WriteMessage(string message)
+        {
+            return $"{this}: {message}";
         }
     }
 }

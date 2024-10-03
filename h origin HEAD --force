@@ -1,0 +1,29 @@
+[33mcommit bfa3a32b6ec7c3771e7be0e16cfa283b879416b6[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: Laura <202215752@alu.comillas.edu>
+Date:   Wed Oct 2 13:13:24 2024 +0200
+
+    Quinto commit: modificar el main con lo pedido.
+
+[33mcommit 103e0faeea983902dcfa33202ae7038c326a4c03[m
+Author: Laura <202215752@alu.comillas.edu>
+Date:   Wed Oct 2 11:20:40 2024 +0200
+
+    Cuarto commit: implementar escritura de mensajes en las nuevas funcionalidades.
+
+[33mcommit 7c0ef243beb8718a4197408f11bad1bb62ca4c21[m
+Author: Laura <202215752@alu.comillas.edu>
+Date:   Wed Oct 2 10:15:07 2024 +0200
+
+    Tercer commit: creación de clases vehículo registrado, vehículo no registrado y patinete.
+
+[33mcommit 56b7cc3cec2418da9b9dcc4f773cdd99a18ad465[m
+Author: Laura <202215752@alu.comillas.edu>
+Date:   Tue Oct 1 11:26:56 2024 +0200
+
+    Segundo commit: Separación de la clase radar.
+
+[33mcommit 2953022e0c3e45748903f5373db92c586076cd9f[m
+Author: Laura <202215752@alu.comillas.edu>
+Date:   Mon Sep 30 16:07:14 2024 +0200
+
+    Primer commit: Código de la Parte 1

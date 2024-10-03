@@ -28,8 +28,6 @@ namespace Practice2
         public string StationName
         { get { return stationName; } } 
         public void ActivateAlarm(string plate)
-
-
         {
             alarm = true;
             Console.WriteLine("Alarm activated");
@@ -38,34 +36,25 @@ namespace Practice2
             {
                 if (car.IsPatrolling())
 
-                {
-                    
+                {   
                     Console.WriteLine($"Police car {car.GetPlate()} notified of taxi {plate}");
 
                     car.StartChasing();
                     car.SetTaxiPlate(plate);    // Send the infractor plate to the plice car
                 }
-
-
             }
-
-
         }
 
         public void RegisterPoliceCar(PoliceCar policeCar)
         {
             PoliceCarsList.Add(policeCar);
             policeCar.SetStation(this);
-
-
-
         }
 
         public void SetCity(City registered_city)
         {
             city = registered_city;
             Console.WriteLine(WriteMessage($"registered to {city.CityName()}"));
-
         }
 
         public override string ToString()

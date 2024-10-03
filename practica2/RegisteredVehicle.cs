@@ -12,11 +12,8 @@ namespace practica2
         private string plate;
         public RegisteredVehicle(string typeOfVehicle , string plate) : base(typeOfVehicle)
         {
-
             this.plate = plate; 
         }
-
-
         public override string GetPlate()
         {
             return plate;

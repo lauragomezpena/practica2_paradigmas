@@ -32,14 +32,8 @@ namespace Practice2
             else
             {
                 Console.WriteLine(WriteMessage($"Taxi already registered."));
-
             }
-
-
-
         }
-
-
 
         public void RemoveTaxiCar(Taxi taxicar)
         {

@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\laugo\\source\\repos\\practica2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\registeredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\registeredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\policestation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,36 +23,28 @@
       "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\policecar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\main.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\unregisteredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\unregisteredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\registeredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\registeredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\speedradar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\taxi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\scooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\imessagewritter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\unregisteredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\unregisteredvehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|c:\\users\\laugo\\source\\repos\\practica2\\practica2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A636F62-6202-4393-866F-712C73D5844F}|practica2\\practica2.csproj|solutionrelative:practica2\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,115 +54,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "Scooter.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Scooter.cs",
               "RelativeDocumentMoniker": "practica2\\Scooter.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Scooter.cs",
               "RelativeToolTip": "practica2\\Scooter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T07:53:31.702Z"
+              "WhenOpened": "2024-10-02T07:53:31.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UnregisteredVehicle.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\UnregisteredVehicle.cs",
               "RelativeDocumentMoniker": "practica2\\UnregisteredVehicle.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\UnregisteredVehicle.cs",
               "RelativeToolTip": "practica2\\UnregisteredVehicle.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T07:45:20.336Z"
+              "WhenOpened": "2024-10-02T07:45:20.336Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "RegisteredVehicle.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\RegisteredVehicle.cs",
               "RelativeDocumentMoniker": "practica2\\RegisteredVehicle.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\RegisteredVehicle.cs",
               "RelativeToolTip": "practica2\\RegisteredVehicle.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAiwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-02T07:44:21.733Z"
+              "WhenOpened": "2024-10-02T07:44:21.733Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "City.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\City.cs",
               "RelativeDocumentMoniker": "practica2\\City.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\City.cs",
               "RelativeToolTip": "practica2\\City.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:53:43.821Z"
+              "WhenOpened": "2024-09-30T12:53:43.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "PoliceStation.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceStation.cs",
               "RelativeDocumentMoniker": "practica2\\PoliceStation.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceStation.cs",
               "RelativeToolTip": "practica2\\PoliceStation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAswB0AAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:53:20.533Z"
+              "WhenOpened": "2024-09-30T12:53:20.533Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PoliceCar.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceCar.cs",
               "RelativeDocumentMoniker": "practica2\\PoliceCar.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\PoliceCar.cs",
               "RelativeToolTip": "practica2\\PoliceCar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHsAAABFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:52:41.836Z"
+              "WhenOpened": "2024-09-30T12:52:41.836Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "Taxi.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Taxi.cs",
               "RelativeDocumentMoniker": "practica2\\Taxi.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Taxi.cs",
               "RelativeToolTip": "practica2\\Taxi.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAmwAgAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:52:05.826Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Vehicle.cs",
-              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Vehicle.cs",
-              "RelativeDocumentMoniker": "practica2\\Vehicle.cs",
-              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Vehicle.cs",
-              "RelativeToolTip": "practica2\\Vehicle.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:51:23.186Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Main.cs",
-              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Main.cs",
-              "RelativeDocumentMoniker": "practica2\\Main.cs",
-              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Main.cs",
-              "RelativeToolTip": "practica2\\Main.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAQwDwAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:48:50.708Z",
+              "WhenOpened": "2024-09-30T12:52:05.826Z",
               "EditorCaption": ""
             },
             {
@@ -173,21 +155,49 @@
               "RelativeDocumentMoniker": "practica2\\SpeedRadar.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\SpeedRadar.cs",
               "RelativeToolTip": "practica2\\SpeedRadar.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAlwBYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:55:40.366Z"
+              "WhenOpened": "2024-09-30T12:55:40.366Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "IMessageWritter.cs",
               "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\IMessageWritter.cs",
               "RelativeDocumentMoniker": "practica2\\IMessageWritter.cs",
               "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\IMessageWritter.cs",
               "RelativeToolTip": "practica2\\IMessageWritter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T12:54:51.796Z"
+              "WhenOpened": "2024-09-30T12:54:51.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Main.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Main.cs",
+              "RelativeDocumentMoniker": "practica2\\Main.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Main.cs",
+              "RelativeToolTip": "practica2\\Main.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:48:50.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Vehicle.cs",
+              "RelativeDocumentMoniker": "practica2\\Vehicle.cs",
+              "ToolTip": "C:\\Users\\laugo\\source\\repos\\practica2\\practica2\\Vehicle.cs",
+              "RelativeToolTip": "practica2\\Vehicle.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T12:51:23.186Z",
+              "EditorCaption": ""
             }
           ]
         }
